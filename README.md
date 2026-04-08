@@ -30,3 +30,10 @@ A Blender add-on for generating VRChat visemes from MMD blendshapes and converti
 
 Full documentation available here:
 [DOCUMENTATION.md](https://github.com/BluLupo/visemes/blob/main/DOCUMENTATION.md)
+
+---
+
+## Credits
+
+Thanks to [ShyWolf42/Copy-to-MMD-Visemes](https://github.com/ShyWolf42/Copy-to-MMD-Visemes)
+Thanks to [teamneoneko/Cats-Blender-Plugin](https://github.com/teamneoneko/Cats-Blender-Plugin)

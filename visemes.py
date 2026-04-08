@@ -8,8 +8,8 @@
 
 bl_info = {
     "name": "Visemes Converter Tool",
-    "author": "Custom",
-    "version": (2, 0, 0),
+    "author": "MikiMleam",
+    "version": (3, 0, 0),
     "blender": (3, 0, 0),
     "location": "View3D > Sidebar > Visemes Tool",
     "description": (

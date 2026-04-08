@@ -2,7 +2,7 @@
 
 Blender add-on for generating VRChat visemes from MMD blendshapes and for converting shape key names to Japanese MMD format.
 
-**Version:** 2.0.0
+**Version:** 3.0.0
 **Minimum Blender:** 3.0.0
 **UI Location:** View3D › Sidebar (N) › Visemes Tool
 **Category:** Rigging
